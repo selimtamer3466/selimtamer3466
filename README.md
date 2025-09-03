@@ -36,19 +36,15 @@
 <br/><br/>
 
 ---
+### 🧰 Frameworks and Tools
 
-### 🧰 بيئة العمل والأدوات المفضلة:
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img align="left" alt="Visual Studio Code" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vscode/vscode.svg">
+</a>
 
-- 🧑‍💻 محرر الكود الأساسي: [Visual Studio Code](https://code.visualstudio.com/)
-- 🧱 Frameworks بستخدمها: 
-  - Flask (لـ Python)
-  - Node.js و Express (لـ JavaScript)
-- 🛠️ أدوات مساعدة:
-  - Git و GitHub لإدارة الأكواد
-  - Postman لاختبار الـ APIs
-  - Figma لتصميم الواجهات
+- **Visual Studio Code**
 
----
+<br/><br/>
 
 ### 📊 إحصائيات GitHub
 
