@@ -2,6 +2,7 @@
 
 <a href='https://www.linkedin.com/in/selim-tamer/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/selimtamerdev'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://mail.google.com/mail/?view=cm&to=selimtamer101@gmail.com'><img align='left' alt="gmail" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height='18px'/></a>
 
 <br/><br/>
 
@@ -15,10 +16,10 @@
 
 - 🔭 حاليًا بشتغل على مشروع **[ابطال التدوير]**
 - 🤝 جاهز للتعاون في مشاريع مفتوحة المصدر أو أفكار جديدة
-- 🌱 بتعمق اكتر في لغات برمجة زي  [python و java script]
+- 🌱 بتعمق اكتر في لغات برمجة زي [python و java script]
 - 👨‍💻 معظم شغلي موجود على [GitHub](https://github.com/selimtamer3466)
 - 💬 اسألني في أي حاجة تخص البرمجة أو تطوير التطبيقات، هكون سعيد أساعدك
-- 📫 تواصل معايا على الإيميل: [selimtamer101@gmail.com](mailto:selimtamer101@gmail.com)
+- 📫 راسلني على Gmail: [selimtamer101@gmail.com](https://mail.google.com/mail/?view=cm&to=selimtamer101@gmail.com)
 - 📚 لما بفضى، بحب أقرأ كتب تطوير الذات والخيال العلمي
 
 ---
@@ -42,4 +43,3 @@
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 ---
-
