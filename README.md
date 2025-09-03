@@ -8,7 +8,7 @@
 
 أنا مطور برامج ومبرمج متعدد المهارات، بشتغل على تطوير تطبيقات الويب والموبايل، وبحب أتعلم تقنيات جديدة وأستخدمها في بناء مشاريع عملية ومبتكرة. شغلي بيجمع بين التفكير التقني والإبداعي، ودايمًا بحب أشتغل على حاجات ليها تأثير حقيقي.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/>
 
 ---
 
