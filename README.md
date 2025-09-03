@@ -38,10 +38,6 @@
 ---
 ### 🧰 Frameworks and Tools
 
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img align="left" alt="Visual Studio Code" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vscode/vscode.svg">
-</a>
-
 - **Visual Studio Code**
 
 <br/><br/>
